@@ -83,7 +83,7 @@ img {
   font-weight: 700;
 }
 
-/* .visually-hidden {
+.visually-hidden {
   position: absolute;
   width: 1px;
   height: 1px;
@@ -95,7 +95,7 @@ img {
   clip-path: inset(100%);
   clip: rect(0 0 0 0);
   overflow: hidden;
-} */
+}
 
 /* +++++++ COMPONENTS END +++++++ */
 
@@ -169,7 +169,7 @@ img {
 /* +++++++ HERO +++++++ */
 
 .hero .container {
-  padding: 200px 237px;
+  padding: 200px 252px;
   text-align: center;
   background-color: #2f303a;
 }
