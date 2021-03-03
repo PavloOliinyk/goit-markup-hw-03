@@ -168,10 +168,13 @@ img {
 
 /* +++++++ HERO +++++++ */
 
+.hero {
+  background-color: #2f303a;
+}
+
 .hero .container {
   padding: 200px 252px;
   text-align: center;
-  background-color: #2f303a;
 }
 
 .hero-title {
@@ -380,9 +383,12 @@ img {
   margin-bottom: 20px;
 }
 
-.footer .container {
+.footer {
   background-color: #2f303a;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.footer .container {
   padding-top: 60px;
   padding-bottom: 60px;
 }
